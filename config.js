@@ -3,20 +3,20 @@ const fs = require("fs");
 //to enable function - true
 //to disable function - false
 //
-global.available = false;
-global.autoReadGc = false;
+global.available = true;
+global.autoReadGc = true;
 global.autoReadAll = false;
 global.antitags = false;
 
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = false;                //make true to enable auto recording
-global.autoviewstatus = false;                 //make true to view statuses 
+global.autoRecord = true;                //make true to enable auto recording
+global.autoviewstatus = true;                 //make true to view statuses 
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || "prince_md-LQ9B0YTK#UZGVjYvKU4Vn5E8p7iQvzUhOMR6GAanB-I4qedC2q70"
+global.SESSION_ID = process.env.SESSION_ID || "prince_md-TN9myByJ#O55z9nboN_5w6-Sw9CjxsSpB6MPxkOPkpQcKlqlaZgY"
 global.Owner = ["237682698517"]; //like 2347080968564 
 global.OwnerName =  "PRINCE";
 global.BotName = "PRINCE-MD-V2";
