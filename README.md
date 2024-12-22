@@ -52,7 +52,7 @@ PRINCE-MD-V2 A AWESOME WHATSAPP BOT WITH LOST OF FEATURES AND PACKAGES TO MAKE Y
  
  ## Follow our channel for more updates and information with giveaway♂️✅
 
-WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VajcRr0GpLHR6PjdgN3N"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
+WhatsApp Channel: <a href="https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
 
 
 ## `Main Dev` 
