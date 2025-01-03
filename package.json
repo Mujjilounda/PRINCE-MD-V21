@@ -3,6 +3,9 @@
     "version": "2.6.0",
     "description": "PRINCE-V2-MD is a WhatsApp multiDevice Bot  in Javascript using the Baileys module to make your WhatsApp experience easier,Based on PRINCE-MD-V2.",
     "main": "server.js",
+    "engines": {
+    "node": "18.x"
+  },
     "directories": {
         "lib": "lib"
     },
